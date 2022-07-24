@@ -6,7 +6,7 @@ from datetime import date
 import plotly.express as px 
 import streamlit as st
 
-st.set_page_config(page_title = " COVID-19 2022 Onlys", page_icon = ":bar_chart:" , layout= "wide")
+st.set_page_config(page_title = " COVID-19 2022 Current", page_icon = ":bar_chart:" , layout= "wide")
 
 
 @st.cache

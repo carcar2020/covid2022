@@ -53,7 +53,7 @@ df_selection = da.query( "Country == @Country")
 
 # MAINPAGE
 
-st.title(":bar_chart: Covid 2022 Dashboard")
+st.title(":bar_chart: Covid-19 2022")
 st.markdown("##")
 
 
